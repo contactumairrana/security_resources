@@ -39,6 +39,7 @@ Short URL: https://git.io/secres
 
 ### Online Tools
 
+- DevOmniTools (Private In-Browser Developer & Security Tools): https://www.devomnitools.com/en/
 - CyberChef: https://gchq.github.io/CyberChef/
 - Useful Web Tools by @h43z: https://h.43z.one/
 - Explain Shell Commands: https://explainshell.com/
